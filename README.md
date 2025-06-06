@@ -1,1 +1,1 @@
-"# courses" 
+"# My Courses" 
